@@ -4,7 +4,7 @@
 
 **find . -type f -mtime +2 -exec rm {} \;**
 
-*--The syntax of this is as follows.--*
+* The syntax of this is as follows.*
 
 + find  – the command that finds the files
 + . – the dot signifies the current folder.  You can change this to something like /home/someuser/ or whatever path you need
