@@ -2,7 +2,7 @@
 
 **find . -type f -mtime +XXX -maxdepth 1 -exec rm {} \;**
 
-**find . -type f -mtime +2 -exec rm {} \;**
+**example:- find . -type f -mtime +2 -exec rm {} \;**
 
 *The syntax of this is as follows.*
 
